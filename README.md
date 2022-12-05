@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [GitHub Live URL]()
+- Solution URL: [Solution](https://github.com/zuraba3/Single-Page-Design-Portfolio)
+- Live Site URL: [GitHub Live URL](https://zuraba3.github.io/Single-Page-Design-Portfolio/)
 
 ## My process
 
