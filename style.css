@@ -29,11 +29,6 @@ body {
   align-items: center;
 }
 
-.disabled {
-  opacity: 0.5;
-  background-color: #030303;
-}
-
 .btn,
 .btn-1 {
   width: 176px;
